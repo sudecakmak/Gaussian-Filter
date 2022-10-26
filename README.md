@@ -21,3 +21,4 @@ Program that filters operation on an image (matrix) to remove noise (denoising) 
 - output grid and
 - filtered output image.
 
+![Screenshot 2022-10-26 200300](https://user-images.githubusercontent.com/102357822/198090448-51710671-5906-4494-85cd-361b8492925c.png)
