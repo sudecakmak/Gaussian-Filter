@@ -1,6 +1,8 @@
 # Gaussian-Filter
 Program that filters operation on an image (matrix) to remove noise (denoising) on the image.
 
+# Project Description
+
 1. There is an input file (inputs.txt) which contains four parameters image size (odd number), filter size (odd number), white pixel value and black pixel value, respectively. The program read these four parameters and make the necessary calculations. When we change these values, the output results also changes.
 
 2. Program generates a input image (Red border matrix in Figure 1) of pixel values of random data and a gaussian filter (Blue border matrix in Figure 1). Gaussian filter is also another matrix and I used given “makeKernel.cpp” to create it.
@@ -22,3 +24,12 @@ Program that filters operation on an image (matrix) to remove noise (denoising) 
 - filtered output image.
 
 ![Screenshot 2022-10-26 200300](https://user-images.githubusercontent.com/102357822/198090448-51710671-5906-4494-85cd-361b8492925c.png)
+
+
+# Output Example
+
+![Screenshot 2022-11-16 005836](https://user-images.githubusercontent.com/102357822/202034081-8abf17c4-64e3-49d1-a075-f160546d2882.png)
+
+![Screenshot 2022-11-16 005931](https://user-images.githubusercontent.com/102357822/202034093-c53ec592-6806-43b8-8bcf-6197700a64cd.png)
+
+
